@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="MyString"><u>Register now</u></string>
+    <string name="BackLog"><u>Back to Login</u></string>
+</resources>
